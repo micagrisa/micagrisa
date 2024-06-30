@@ -1,4 +1,4 @@
-!(https://github.com/micagrisa/micagrisa/blob/main/Imagenes/Portada2.jpg)
+![https://github.com/micagrisa/micagrisa/blob/main/Imagenes/Portada2.jpg]
 ## Hi there 👋 mi nombre es Micaela Belen Grisapulli
 
 ### Quien Soy?
