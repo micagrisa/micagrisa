@@ -7,7 +7,8 @@
 Soy una apasionada Analista de Datos que reside en Buenos Aires, Argentina. Manejo herramientas clave como Power BI, SQL Server y Python, lo que me permite transformar datos complejos en información clara y accionable.
 
 ### Porque datos?
-Desde pequeña, siempre he tenido una fascinación por los números, recuerdo cómo jugaba a hacer cuentas. Sin embargo, fue más adelante en mi vida que descubrí mi amor por el mundo de los datos. Esta pasión se consolidó cuando me convertí en madre; quiero ser un ejemplo para mi hija, demostrando que es posible perseguir y alcanzar nuestros sueños.
+Desde pequeña, siempre he tenido una fascinación por los números, recuerdo cómo jugaba a hacer cuentas de chica. Sin embargo, fue más adelante en mi vida que descubrí mi amor por el mundo de los datos, al trabajar durante años en comercio, amabe hacer los balances, hacer ranquins de pro 
+ductos vendidos y estategias para generar mas ganancias y abaratar costos. 
 
 ### Que hago?
 Actualemte me dedico a realizar proyectos tanto de forma personal como en grupo junto a compañeros graduados de Henry para seguir creciendo en mis skills 
